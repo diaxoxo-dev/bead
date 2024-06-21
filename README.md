@@ -1,0 +1,2 @@
+# bead
+shinyBead diary
